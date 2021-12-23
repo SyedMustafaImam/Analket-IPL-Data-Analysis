@@ -16,3 +16,14 @@ We have set the milestones for the implementation of the project:
 - Back End Application
 - Connectivity of Dataset with Back End Application
 - Data Visualization
+
+### Web Application 
+URL: (www.analket.com)[https://t.ly/CB35]
+
+Username: datascience
+Password: Data.123456789
+
+## Dataset Reference 
+https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020
+
+

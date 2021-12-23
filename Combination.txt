@@ -1,0 +1,150 @@
+Label: Inning
+Value: Is Wicket
+Function: Sum
+Pie Chart
+----------------
+
+Label:Inning 
+Value:Extra Runs
+Function:Sum
+Bar Chart
+----------------
+
+Label:Inning
+Value:Total Runs
+Function: Sum
+Pie Chart
+----------------
+
+Label: Over
+Value: Total Runs
+Function: Sum
+Bar Chart
+----------------
+
+Label:Batsman
+Value: Total Runs
+Function: Sum
+Bar Chart
+----------------
+
+
+Label:Player Dismmissed
+Value: Is Wicket
+Function: Count
+Bar Chart
+----------------
+
+
+
+
+Label:Bowler
+Value: Extra Runs
+Function: Sum
+Bar Chart
+----------------
+
+
+Label:Bowler
+Value: Total Runs
+Function: Sum
+Bar Chart
+----------------
+
+
+
+Label:Bowler
+Value: Is Wicket
+Function: Sum
+Bar Chart
+----------------
+
+
+Label:Extras Type
+Value: Extra Runs
+Function: Sum
+Bar Chart
+----------------
+
+
+
+Label:Batting Team
+Value: Total Runs
+Function: Sum
+Pie Chart
+----------------
+
+
+
+Label:Bowling Team
+Value: Is Wicket
+Function: Sum
+Line
+----------------
+
+
+
+Label:Bowling Team
+Value: Ball
+Function: Sum
+Line
+----------------
+
+
+
+Label:Bowling Team
+Value: Is Wicket
+Function: Sum
+Line
+----------------
+
+
+
+
+Label:City 
+Value: Is Wicket
+Function: Sum
+Line
+----------------
+
+
+
+Label:City 
+Value: Total Runs
+Function: Sum
+Line
+----------------
+
+
+
+Label:Toss Decision 
+Value: Total Runs
+Function: Sum
+Line
+----------------
+
+Label:Toss Decision 
+Value: Is Wicket
+Function: Sum
+Line
+----------------
+
+
+Label:Winner 
+Value: Netural Venue
+Function: Sum
+Pie Chart
+----------------
+
+
+Label:Venue
+Value: Total Runs
+Function: Sum
+Bar Chart
+---------------
+
+Label:Venue
+Value: Is Wicket
+Function: Sum
+Bar Chart
+-----------------
