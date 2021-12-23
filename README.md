@@ -18,7 +18,7 @@ We have set the milestones for the implementation of the project:
 - Data Visualization
 
 ### Web Application 
-URL: (www.analket.com)[https://t.ly/CB35]
+URL: [www.analket.com](https://t.ly/CB35)
 
 Username: datascience
 Password: Data.123456789
