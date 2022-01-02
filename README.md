@@ -5,7 +5,7 @@ In this project, we are planning to build an analytical dashboard from the data 
 Sports is an area where data analysis is growing day by day from the perspectives of athletes, broadcasters, brands, coaches, fans, investors, marketing, teams, team analysts and team owners. In order to find the hidden intricacies and pattern details that are not easily noticed in plain sight.
 
 # Objectives
-Whereas the objective of our course is concerned, in this project we will be having an improvisation of the concepts in this course, we will use libraries like NumPy, MathPlotlib, Pandas, and Seaborn.
+Whereas the objective of our course is concerned, in this project we will be having an improvisation of the concepts in this course, we will use libraries like NumPy, MathPlotlib, Pandas,Seaborn.
 
 
 We have set the milestones for the implementation of the project:
