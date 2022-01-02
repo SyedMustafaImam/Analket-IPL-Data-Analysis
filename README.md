@@ -12,10 +12,9 @@ We have set the milestones for the implementation of the project:
 - Data Gathering
 - Data Cleaning
 - Dataset Merge
-- Exploratory Data Analysis
+- EDA
 - Front End Application
 - Back End Application
-- Connectivity of the Application
 - Data Visualization
 
 ### Web Application 
