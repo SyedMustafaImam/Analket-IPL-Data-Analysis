@@ -9,12 +9,13 @@ Whereas the objective of our course is concerned, in this project we will be hav
 
 
 We have set the milestones for the implementation of the project:
-- Gathering
+- Data Gathering
 - Data Cleaning
+- Dataset Merge
 - Exploratory Data Analysis
 - Front End Application
 - Back End Application
-- Connectivity of Dataset with Back End Application
+- Connectivity of the Application
 - Data Visualization
 
 ### Web Application 
