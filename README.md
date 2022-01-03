@@ -18,7 +18,7 @@ We have set the milestones for the implementation of the project:
 - Data Visualization
 
 ### Web Application 
-URL: [www.analket.com](https://t.ly/CB35)
+URL: [www.analket.com](https://g78816e056b4a07-dbst31r.adb.ap-mumbai-1.oraclecloudapps.com/ords/r/datascience/analket/login?session=117903096516994)
 
 Username: datascience
 <br>
